@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.calja.bikecharts</groupId>
+    <artifactId>chart-app</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <description>TODO</description>
+    <url>www.calja.org</url>
+
+    <!-- ****************************************************************** -->
+    <!-- Developers -->
+    <!-- ****************************************************************** -->
+    <developers>
+        <developer>
+            <id>agrunow</id>
+            <name>Andre Grunow</name>
+        </developer>
+    </developers>
+
+    <!-- ****************************************************************** -->
+    <!-- SCM -->
+    <!-- ****************************************************************** -->
+    <scm>
+        <connection></connection>
+        <developerConnection></developerConnection>
+        <url></url>
+        <tag></tag>
+    </scm>
+    
+    <!-- ****************************************************************** -->
+    <!-- Properties -->
+    <!-- ****************************************************************** -->
+    <properties>
+    </properties>
+
+    <!-- ****************************************************************** -->
+    <!-- Dependencies -->
+    <!-- ****************************************************************** -->
+    <dependencies>
+    </dependencies>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+            </plugins>
+        </pluginManagement>
+    </build>
+
+</project>
